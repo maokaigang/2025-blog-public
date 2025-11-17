@@ -10,5 +10,5 @@ export const GITHUB_CONFIG = {
 	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'maokaigang',
 	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || '2025-blog-public',
 	BRANCH: process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'main',
-	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '99508',
+	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '2304163',
 } as const

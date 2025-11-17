@@ -4,8 +4,8 @@ import type { Metadata } from 'next'
 import Layout from '@/layout'
 import Head from '@/layout/head'
 
-const title = 'YYsuni',
-	description = 'YYsuni 的个人博客，分享前端开发、React、TypeScript、动画效果等技术文章。基于 Next.js 构建的现代化博客系统，所有内容托管在 Github。'
+const title = 'Nano Home',
+	description = '一个野人的博客。'
 
 export const metadata: Metadata = {
 	title,

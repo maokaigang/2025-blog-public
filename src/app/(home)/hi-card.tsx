@@ -20,7 +20,7 @@ export default function HiCard() {
 			className='-translate-1/2 text-center max-sm:static max-sm:translate-0'>
 			<img src='/images/avatar.png' className='mx-auto rounded-full' style={{ width: 120, height: 120, boxShadow: ' 0 16px 32px -5px #E2D9CE' }} />
 			<h1 className='font-averia mt-3 text-2xl'>
-				Good Morning <br /> I’m <span className='text-linear text-[32px]'>Suni</span> , Nice to <br /> meet you!
+				Mr. Bigglesworth <br /> 是我的 <span className='text-linear text-[32px]'>猫</span> , 希望 <br /> 你知道
 			</h1>
 		</Card>
 	)

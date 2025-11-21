@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 import Layout from '@/layout'
 import Head from '@/layout/head'
 
-const title = 'neko blog',
+const title = '嘿猫',
 	description = '有猫山人。'
 
 export const metadata: Metadata = {
